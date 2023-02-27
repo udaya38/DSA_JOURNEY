@@ -13,3 +13,8 @@ const insertionSort=(arr)=>{
 }
 
 console.log(insertionSort([4,5,3,8,6,7,1,0,-1,34,-34])) 
+
+7,6,10,11,8 cur=6
+6 7 10 11 8   cur=8
+6 7 10 11 11
+6 7 8 10 11
